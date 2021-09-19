@@ -1,12 +1,17 @@
 # ETL - Extract, transform, load
 
+<img src="certificado.jpg"
+     alt="Certificado DIO: Fundamentos de ETL com Python"
+     style="width:250px;height:200px;"
+     />
+
 ## O que é ETL
 
 É composto por 3 etapas. Extração, Transformação e carregamento
 
 - Extract: Permite que is dados sejam extraídos de diferentes fontes. Bases de dados, arquivos, APIs, podem ser processadas em lote, tempo real. Como esses dados podem existir e ser extraídos de forma inconsistente. Devemos garantir a integridade do dado que será passado para dentro do contexto. que é feito na etapa de transformação.
 - Transform: Propagados para a área de preparação de dados,o nde são transformados e limpos.
-- Load: Carregados no data warehouse. 
+- Load: Carregados no data warehouse.
 
 ## ---
 
@@ -29,8 +34,7 @@ Principais ferramentas no utlizidads mercado para a linguagem python
 - petl: uso e contrução de etl em geral, mas não foi projetado para uso de muita memória
 - pandas: pode ser utilizado com maior fonte de dados.
 
-
-
 ## Objetivo do Projeto
+
 Dados utilizados no projeto - cenipa
 Extrair os dados do arquivo ocorrencias.csv, validar, limpar, transformar e gerar novas informações a partir desses dados
