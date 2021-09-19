@@ -2,7 +2,7 @@
 
 <img src="certificado.jpg"
      alt="Certificado DIO: Fundamentos de ETL com Python"
-     style="width:250px;height:200px;"
+     style="width:350px;height:300px;"
      />
 
 ## O que é ETL
